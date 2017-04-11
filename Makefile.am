@@ -1,0 +1,3 @@
+
+# Build dirs
+SUBDIRS = src
